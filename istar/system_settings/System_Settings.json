@@ -34,7 +34,7 @@
                     }, 
                     {
                         "data": {
-                            "c5a2b94a-fadd-11e6-a029-6c4008b05c4c": "Arches", 
+                            "c5a2b94a-fadd-11e6-a029-6c4008b05c4c": "ISTAR", 
                             "c5a2bdb3-fadd-11e6-8c96-6c4008b05c4c": "ETL", 
                             "c5a2b1dc-fadd-11e6-a726-6c4008b05c4c": null
                         }, 
@@ -80,7 +80,7 @@
                     }, 
                     {
                         "data": {
-                            "0e9000b0-4148-11e7-bd19-c4b301baab9f": "", 
+                            "0e9000b0-4148-11e7-bd19-c4b301baab9f": "pk.eyJ1IjoibGVnaW9uZ2lzIiwiYSI6ImNpdzg1ZXVvbjAxa2IydG1zcm5kcnZ5NXIifQ.dTfsQ7s5nQv59mHKcNPi_w", 
                             "0e900254-4148-11e7-9902-c4b301baab9f": "mapbox://sprites/mapbox/basic-v9", 
                             "0e90031e-4148-11e7-a176-c4b301baab9f": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf"
                         }, 
